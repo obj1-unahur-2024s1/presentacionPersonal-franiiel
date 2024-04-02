@@ -19,6 +19,7 @@
 
     Hoy en dia sigo jugando counter, mi juego favorito desde chico, aunque juego un poco de todo, me gusta en especial los rpgs como los baldurs viejos o los pillars of eternity.
 
-    Tambien leo bastante manga, en general me gustan mucho del genero slice of life, actualmente mangas que recomiendo de este genero son Ruri Dragon(https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9/ruri-dragon) y Ogami Tsumiki to Kinichijou(https://mangadex.org/title/df361a38-eef6-4674-bec6-86d08aa1d1aa/ogami-tsumiki-to-kinichijou)
+    Tambien leo bastante manga, en general me gustan mucho del genero slice of life, actualmente mangas que recomiendo de este genero son * Ruri Dragon (https://mangadex.org/title/141609b6-cf86-4266-904c-6648f389cdc9/ruri-dragon) y 
+    * Ogami Tsumiki to Kinichijou (https://mangadex.org/title/df361a38-eef6-4674-bec6-86d08aa1d1aa/ogami-tsumiki-to-kinichijou)
 
 ![ruri dragon](./assets/ruri2.png)
